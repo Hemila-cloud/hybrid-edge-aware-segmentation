@@ -30,7 +30,6 @@ The project uses the **Roof Information Dataset (RID)**, which contains aerial r
 
 **Dataset:** Roof Information Dataset for Identifying Roof Segments and Roof Superstructures in Aerial Images (RID)
 
-**Dataset source:** [RID Dataset – Technical University of Munich](https://dataserv.ub.tum.de/s/?dir=/RID_dataset)
 
 **Dataset paper:** [https://doi.org/10.14459/2022mp1655470](https://doi.org/10.14459/2022mp1655470)
 
