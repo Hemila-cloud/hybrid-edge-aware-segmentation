@@ -43,7 +43,6 @@ Dataset characteristics:
 
 The dataset annotations are used for training and evaluating the semantic segmentation model and for extracting rooftop-related information.
 
-*Note: The dataset is maintained separately and is not included in this repository. Users should download it from the original source and organize the files according to the project directory structure.*
 
 ## 5. Proposed Methodology
 
