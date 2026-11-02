@@ -197,6 +197,7 @@ The project uses the following technologies and techniques:
 
 
 
+
 ## 12. Conclusion
 
 This project presents a hybrid approach for preliminary rooftop photovoltaic suitability assessment using aerial imagery. By combining classical image processing, DeepLabV3+ semantic segmentation, geometric feature extraction, and rule-based suitability scoring, the framework provides an integrated approach to rooftop analysis.
